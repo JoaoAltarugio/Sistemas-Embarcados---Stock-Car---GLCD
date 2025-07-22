@@ -32,3 +32,7 @@ O jogo simula uma corrida de carros onde o jogador controla um veículo que se m
 2.  Compile o código-fonte (`.c`) para gerar o arquivo `.hex` (firmware). Este arquivo conterá o código executável para o microcontrolador.
 3.  Abra Root no proteus e carregue o arquivo .c no microcontrolador.
 4.  Compile o código
+
+## Acesse o vídeo de Demonstração!
+
+[![Assista ao vídeo](https://img.youtube.com/vi/rZBkgv5a9EE/0.jpg)](https://youtu.be/rZBkgv5a9EE)
