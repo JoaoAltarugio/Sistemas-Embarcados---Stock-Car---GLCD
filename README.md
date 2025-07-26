@@ -1,4 +1,9 @@
 # Sistemas-Embarcados---Stock-Car---GLCD
+Projeto Final do Curso Sistemas Embarcados
+
+Departamento de Computação - UFSCar
+
+Professor Dr. Emerson Carlos Pedrino
 
 # Jogo de Corrida para Microcontrolador AT89S52 com GLCD 128x64
 
