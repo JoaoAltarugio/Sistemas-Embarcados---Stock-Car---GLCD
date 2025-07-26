@@ -5,6 +5,14 @@ Departamento de Computação - UFSCar
 
 Professor Dr. Emerson Carlos Pedrino
 
+## Alunos
+
+João Eduardo Batelochi Altarugio, 800815
+
+João Rafael de Freitas Guimarães, 800295
+
+Juliano Eleno Silva Pádua, 800812
+
 # Jogo de Corrida para Microcontrolador AT89S52 com GLCD 128x64
 
 Este repositório contém o código-fonte e os arquivos de simulação para um jogo de corrida simples desenvolvido para um microcontrolador 8051 (especificamente o AT89S52) com interface gráfica via display GLCD (Graphic Liquid Crystal Display) de 128x64 pixels. O projeto demonstra conceitos fundamentais de programação embarcada, controle de hardware e desenvolvimento de lógicas de jogo.
